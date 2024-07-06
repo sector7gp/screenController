@@ -17,3 +17,6 @@ Encoder with push boton
 https://openhacks.com/page/productos/id/2241/
 
 ![image](https://github.com/sector7gp/screenController/assets/1781640/fcb37f39-6a7e-44e0-9162-84a558d761f4)
+
+![image](https://github.com/sector7gp/screenController/assets/1781640/f59aeb23-1e16-4eb5-9889-be7ae8490156)
+
