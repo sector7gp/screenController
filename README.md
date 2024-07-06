@@ -1,5 +1,5 @@
 # screenController
-Phisical Screen Mask for Projectors, the controller is a standalone saving the position in EEPROM memory. 
+Physical Screen Mask for Projectors, the controller is a standalone saving the position in EEPROM memory. 
 Has two position (I called them NIGHT/DAY because is the goal of this proyect), The first one is fully open and the second is the saved in memory
 
 
